@@ -15,6 +15,7 @@ Intel® VTune™ Profiler Results/**
 !*.md 
 !*.h 
 !*.hpp 
+!*.clang-format 
 !/src/**
 !/build/**
 !*.sln
