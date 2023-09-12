@@ -9,6 +9,18 @@
 /GPUCache/**
 Intel® VTune™ Profiler Results/**
 
+*
+!*.c 
+!*.cpp
+!*.md 
+!*.h 
+!*.hpp 
+!/src/**
+!/build/**
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
+
 # User-specific files
 *.rsuser
 *.suo
